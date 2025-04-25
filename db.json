@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "age": 30,
+      "position": "Developer",
+      "department": "Development"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "age": 30,
+      "position": "Developer",
+      "department": "Development"
+    },
+    {
+      "name": "anvar",
+      "email": "gnejkr",
+      "age": 108,
+      "position": "Designer",
+      "department": "QA",
+      "id": "dc6e"
+    }
+  ]
+}
